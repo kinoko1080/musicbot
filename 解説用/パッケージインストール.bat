@@ -1,0 +1,1 @@
+npm install discord.js @discordjs/voice @distube/ytdl-core axios ffmpeg-static ytpl
